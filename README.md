@@ -45,11 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohossny25&show_icons=true&locale=en" alt="mohossny25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohossny25&" alt="mohossny25" /></p>
-<br>
-
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohossny25&" alt="mohossny25" alt="7oSkaaa" /></p>
 
 <br>
 <br>
