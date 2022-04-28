@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Software Engineer | Full Stack Developer | Data Analysis</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohossny25&label=Profile%20views&color=0e75b6&style=flat" alt="mohossny25" />
-		   <img src="https://badges.pufler.dev/repos/mohossny25" alt="mohossny25"/>
+		   		   <img src="https://badges.pufler.dev/repos/mohossny25" alt="mohossny25" />
 		   <img src="https://img.shields.io/github/followers/mohossny25?label=Followers" alt="mohossny25" />
 
 <p align="center"> <a href="https://twitter.com/mhossny25" target="blank"><img src="https://img.shields.io/twitter/follow/mhossny25?logo=twitter&style=for-the-badge&color=0e75b6&style=flat" alt="mhossny25" /></a> </p>
