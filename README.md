@@ -5,7 +5,7 @@ MoHossny25/MoHossny25 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Mohamed Hossny</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Data Analysis</h3>
+<h3 align="center">Software Engineer | Data Analysis</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohossny25&label=Profile%20views&color=0e75b6&style=flat" alt="mohossny25" />
 <!-- 		   		   <img src="https://badges.pufler.dev/repos/mohossny25" alt="mohossny25" /> -->
