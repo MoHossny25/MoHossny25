@@ -5,7 +5,7 @@ MoHossny25/MoHossny25 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Mohamed Hossny</h1>
-<h3 align="center">Software Engineer | Data Analysis</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohossny25&label=Profile%20views&color=0e75b6&style=flat" alt="mohossny25" />
 <!-- 		   		   <img src="https://badges.pufler.dev/repos/mohossny25" alt="mohossny25" /> -->
@@ -13,11 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <a href="https://twitter.com/mhossny25" target="blank"><img src="https://img.shields.io/twitter/follow/mhossny25?logo=twitter&style=for-the-badge&color=0e75b6&style=flat" alt="mhossny25" /></a> </p>
 
-- :school: I am a `Junior` at Faculty of Computer Science, NUB – Nahda University in Beni Suef
-
-- 🔭 I’m currently working on `Restaurant website`
-
-- 🌱 I’m currently learning `Problem Solving`
+-  Computer Science, NUB – Nahda University in Beni Suef
 
 - 📫 How to reach me **mohamedhossny113@gmail.com**
 
